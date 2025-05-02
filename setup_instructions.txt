@@ -1,0 +1,4 @@
+# Setup Instructions
+python -m venv venv
+venv\Scripts\activate  # or source venv/bin/activate on Linux/Mac
+pip install -r requirements.txt
